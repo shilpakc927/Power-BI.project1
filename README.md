@@ -47,5 +47,32 @@ This project presents an interactive Power BI dashboard that combines **Human Re
 - `Sales and HR data.pbix` – power bi file with dashboard and raw data
 - `Sales and HR data.pdf` – Dashboard preview image
 
+## ✅ Outcome
+
+This Power BI dashboard project successfully simulated a real-world business intelligence scenario by integrating sales and HR analytics. It demonstrated how organizations can harness data to:
+
+- Monitor **real-time sales trends** and identify high-performing regions and product lines.
+- Track **employee distribution** and analyze attrition trends and department efficiency.
+- Drive **data-backed decisions** by correlating HR behavior with business revenue and targets.
+- Enable senior management to improve strategy and resource planning through clear, insightful dashboards.
+
+---
+
+## 📂 How to Run
+
+1. Open Power BI Desktop.
+2. Load the provided dataset or connect to your own.
+3. Open the `.pbix` file from this repository.
+4. Interact with the dashboard using filters and slicers.
+
+---
+
+## 📬 Contact
+
+For questions or collaboration:
+
+**Shilpa K C**  
+Data Science Intern  
+[LinkedIn](https://www.linkedin.com/in/shilpa-kc) | [Email](shilpakcc@gmail.com)
 
 
