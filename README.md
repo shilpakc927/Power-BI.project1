@@ -44,8 +44,8 @@ This project presents an interactive Power BI dashboard that combines **Human Re
 - Karnataka accounts for more than 65% of the total sales revenue.
 
 ## 📁 Files Included
-- `covid19_data_project1.xlsx` – Excel file with dashboard and raw data
-- `/images/covid_dashboard.png` – Dashboard preview image
+- `Sales and HR data.pbix` – power bi file with dashboard and raw data
+- `Sales and HR data.pdf` – Dashboard preview image
 
 
 
