@@ -1,77 +1,47 @@
-✅ Project Title: Sales and HR Analytics Dashboard using Power BI
----------------------------------------------------------------------
-📌 Project Description - 
-This project aims to provide comprehensive insights into both employee performance and training sales analytics using interactive dashboards. The goal is to assist management in monitoring key HR and sales metrics such as employee satisfaction, salary trends, admissions by location and course, revenue generation, and leave statistics.
+# Sales and HR Dashboard using Power BI
 
-🧩 Key Components:
--------------------
-🔹 Page 1: HR Dashboard
-----------------------
-1.Total Metrics:
-Total Employees,
-Average Salary per Day,
-Average Job Satisfaction,
-Total Fine (likely salary deductions).
+## 📊 Project Overview
 
-2.Visuals:
-Pie Charts - 
-Employee distribution by gender,
-Job satisfaction levels.
+This project presents an interactive Power BI dashboard that combines **Human Resources** and **Sales** data insights for Zephyr Technologies & Solutions Pvt. Ltd. The dashboard is designed to help management visualize employee performance, job satisfaction, leave statistics, course admissions, and sales analytics across locations and departments.
 
-Bar Charts - 
-Total employees by department,
-Leave count per employee,
+---
 
-Line Chart-
-Extra working hours by employees.
+## 📌 Key Features
 
-Table - 
-Staff name, position, salary, and job satisfaction for detailed tracking.
+### 🔹 HR Dashboard (Page 1)
+- **Total Employees**: Displays the total number of employees.
+- **Average Salary per Day**: Provides an insight into average daily pay.
+- **Job Satisfaction**: Shows the average satisfaction level and distribution across high, medium, and low categories.
+- **Department-wise Employee Count**: Bar chart illustrating employee distribution across departments.
+- **Gender-wise Distribution**: Doughnut chart visualizing male vs female employees.
+- **Extra Working Hours**: Line chart showing working hours beyond regular schedule per employee.
+- **Salary & Role Table**: Lists employee name, position, salary per day, and job satisfaction level.
+- **Leave Summary**: Displays the total number of leaves across all employees.
 
-🔹 Page 2: Sales Dashboard
---------------------------
-1.Total Metrics:
-Number of Courses,
-Total Fees Collected.
+### 🔹 Sales Dashboard (Page 2)
+- **Number of Courses**: Displays total number of courses offered.
+- **Total Fees Collected**: Sum of sales revenue from all courses.
+- **Sales by Location**: Doughnut chart comparing sales in Karnataka and Kerala.
+- **Course Admissions by Duration**: Stacked bar chart showing course popularity by duration (1–6 months).
+- **Sales by Course**: Tree map showing highest revenue-generating courses like Data Analytics, MongoDB, Cyber Security, etc.
 
-Visuals:
-Donut Chart - 
-Sales by Location (Kerala vs Karnataka)
+---
 
-Stacked Bar Chart - 
-Number of Admissions by Course and Duration (1–6 months).
+## 📌 Tools Used
 
-Treemap - 
-Sales contribution by course (Data Analytics, MongoDB, Machine Learning, etc.).
+- **Power BI Desktop** – Data transformation and dashboard creation
+- **Excel** – Source data for employee and course information
+- **DAX (Data Analysis Expressions)** – For calculated fields and KPIs
 
-🛠️ Tools & Technologies Used:
--------------------------------
-Microsoft Power BI: For building interactive dashboards and visuals.
-Excel (backend): To store raw employee and course data.
-DAX (Data Analysis Expressions): For calculated fields like profits, average, total fine
-Filters/Slicers: Time periods, departments, locations, etc., for dynamic filtering.
+---
 
-🎯 Project Objectives:
------------------------
-Analyze employee performance, satisfaction, and productivity.
-Track training program sales, duration preferences, and course popularity.
-Identify top-performing courses and high-revenue regions.
-Support HR in decision-making with detailed visuals on staff work habits and compensation.
+## 💡 Insights
 
-📈 Key Insights:
------------------
-Majority of employees have medium to low satisfaction.
-Web Development courses and Karnataka region are driving the highest sales.
-Some employees consistently work extra hours, which may signal potential burnout or dedication.
-Data Analytics is a top-selling course, with significant admissions in 4–6 month duration.
-
-
-
-
-
-
-
-
+- Majority of employees fall under the “Medium” job satisfaction category.
+- Research & Development and Sales are the departments with the highest headcount.
+- Female to male employee ratio is fairly balanced.
+- Courses like **Data Analytics**, **MongoDB**, and **Cyber Security** generate the highest revenue.
+- Karnataka accounts for more than 65% of the total sales revenue.
 
 
 
