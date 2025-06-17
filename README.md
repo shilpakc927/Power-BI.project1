@@ -43,10 +43,6 @@ This project presents an interactive Power BI dashboard that combines **Human Re
 - Courses like **Data Analytics**, **MongoDB**, and **Cyber Security** generate the highest revenue.
 - Karnataka accounts for more than 65% of the total sales revenue.
 
-## 📁 Files Included
-- `Sales and HR data.pbix` – power bi file with dashboard and raw data
-- `Sales and HR data.pdf` – Dashboard preview image
-
 ## ✅ Outcome
 
 This Power BI dashboard project successfully simulated a real-world business intelligence scenario by integrating sales and HR analytics. It demonstrated how organizations can harness data to:
@@ -55,6 +51,10 @@ This Power BI dashboard project successfully simulated a real-world business int
 - Track **employee distribution** and analyze attrition trends and department efficiency.
 - Drive **data-backed decisions** by correlating HR behavior with business revenue and targets.
 - Enable senior management to improve strategy and resource planning through clear, insightful dashboards.
+
+  ## 📁 Files Included
+- `Sales and HR data.pbix` – power bi file with dashboard and raw data
+- `Sales and HR data.pdf` – Dashboard preview image
 
 ---
 
