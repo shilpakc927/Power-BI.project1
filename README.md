@@ -52,7 +52,7 @@ This Power BI dashboard project successfully simulated a real-world business int
 - Drive **data-backed decisions** by correlating HR behavior with business revenue and targets.
 - Enable senior management to improve strategy and resource planning through clear, insightful dashboards.
 
-  ## 📁 Files Included
+## 📁 Files Included
 - `Sales and HR data.pbix` – power bi file with dashboard and raw data
 - `Sales and HR data.pdf` – Dashboard preview image
 
