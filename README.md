@@ -68,6 +68,10 @@ This Power BI dashboard project successfully simulated a real-world business int
 4. Interact with the dashboard using filters and slicers.
 
 ---
+## 📸 Project Screenshots
+
+- [HR Dashboard Screenshot](Screenshot%2094.png)
+- [Sales Dashboard Screenshot](Screenshot%2095.png)
 
 
 ## 📬 Contact
