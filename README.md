@@ -73,7 +73,7 @@ This Power BI dashboard project successfully simulated a real-world business int
 - [HR Dashboard Screenshot](Screenshot%2093.png)
 - [Sales Dashboard Screenshot](Screenshot%2094.png)
 
-
+---
 ## 📬 Contact
 
 For questions or collaboration:
